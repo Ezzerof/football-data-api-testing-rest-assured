@@ -189,5 +189,4 @@ public class AllAreasApiTests extends FootballConfig {
         assertEquals(expectedAPIVersion, actualAPIVersion);
     }
 
-
 }
